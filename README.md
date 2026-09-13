@@ -942,7 +942,7 @@ Although some experiments did not produce useful suggestions because of dataset 
 
 ### **Saswati Anupama Mathan**
 
-**M.Tech — Electronics & Communication Engineering**
+**M.Tech — Electronics & Communication Engineering (Specialisation - Communication)**
 
 GitHub: `SASWATIMATHAN`
 
